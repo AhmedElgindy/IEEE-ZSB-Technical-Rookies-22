@@ -1,7 +1,5 @@
 #include <iostream>
-
 using namespace std;
-
 int main()
 {
   string sentence;
@@ -50,10 +48,7 @@ int main()
         }
         cout<<'*';
         cout<<endl;
-      }
-      
+      } 
   }
   cout<<line<<endl;
   }
-  
-
