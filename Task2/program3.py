@@ -1,5 +1,5 @@
 import random
-n = random.randint(99,1000)
+n = random.randint(100,999)
 con = True
 counter = 0
 main = [int(x) for x in str(n)]  # insert number into array
